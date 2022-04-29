@@ -29,7 +29,7 @@
 			<string>nissispace</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>http://</string>
+				<string>http</string>
 			</array>
 			<key>host</key>
 			<string>thenissispace.com</string>
@@ -41,7 +41,7 @@
 			<string>nissi</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>nissispace://</string>
+				<string>thenissispace.com</string>
 			</array>
 		</dict>
 	</array>
