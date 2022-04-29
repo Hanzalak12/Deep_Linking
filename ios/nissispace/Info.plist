@@ -41,7 +41,7 @@
 			<string>nissi</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>thenissispace.com</string>
+				<string>thenissispace</string>
 			</array>
 		</dict>
 	</array>

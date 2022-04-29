@@ -9,7 +9,7 @@ import BottomNav from './bottomNav';
 const RootStack = createNativeStackNavigator();
 
 const linking = {
-  prefixes: ['http://thenissispace.com', 'thenissispace.com'],
+  prefixes: ['http://thenissispace.com', 'thenissispace://'],
   config: {
     initialRouteName: 'Home',
     screens: {
